@@ -1,6 +1,4 @@
-# My React App
-
-This is a boilerplate React application that includes Material-UI for building user interfaces.
+# Personal Site
 
 ## Getting Started
 
